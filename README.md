@@ -31,4 +31,3 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obten
 
 ---
 
-¡Espero que encuentres útil este archivo `README.md`! Siéntete libre de personalizarlo y agregar más detalles sobre tu proyecto. ¡Buena suerte con tu DApp de lotería! 🍀
